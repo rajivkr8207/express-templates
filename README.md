@@ -16,11 +16,11 @@ Before running the backend server, ensure you have the following installed on yo
 1 .Clone the repository to your local machine:
 
     git clone <repository-url>
-Navigate into the project directory:
+2.Navigate into the project directory:
 
     cd <project-directory>
 
-2.Install dependencies using npm:
+3.Install dependencies using npm:
 
     npm install
 
